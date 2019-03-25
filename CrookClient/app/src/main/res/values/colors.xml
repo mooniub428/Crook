@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF7F50</color> <!-- #03A9F4 -->
+    <color name="colorPrimaryDark">#FF7F50</color> <!-- #0288D1 -->
+    <color name="colorAccent">#ffa500</color>
+    <color name="btnSignUp">#39796b</color>
+    <color name="btnSignActive">#A9d440</color>
+    <color name="bgRowBackground">#FA315B</color>
+    <color name="itemName">#535353</color>
+    <color name="Description">#A9A9A9</color>
+    <color name="highlight">#F9D37C</color>
+    <color name="coral">#FF7F50</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darkgray">#6C6C6C</color>
+    <color name="background">#EB6363</color>
+    <color name="mycolo1">#63799A</color>
+    <color name="transparentPrimary">#95FF7F50</color>
+</resources>

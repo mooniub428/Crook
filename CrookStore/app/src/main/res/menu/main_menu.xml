@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add_product"
+        android:icon="@drawable/add_white"
+        android:orderInCategory="200"
+        app:showAsAction="always"
+        android:actionLayout="@layout/toolbar"
+        android:title="Setting" />
+
+    <item
+        android:id="@+id/display_products"
+        android:icon="@drawable/ic_list_white_24dp"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:actionLayout="@layout/toolbar"
+        android:title="Setting" />
+
+
+
+</menu>
